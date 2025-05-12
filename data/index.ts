@@ -102,6 +102,22 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://atipum.vercel.app/",
   },
+  {
+    id: 5,
+    title: "PWD Map",
+    des: "The Disability Mapping Initiative, accessible at https://pwd-map.vercel.app/, is an interactive platform designed to visualize the distribution of persons with disabilities within the community. Its mission is to enhance awareness and promote inclusivity by providing clear, data-driven insights into disability demographics. By offering accessible maps and information, the site aims to support better resource allocation, inform policy-making, and foster community support.",
+    img: "/p5.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://pwd-map.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "STDMDC",
+    des: "The website https://stdmdc-2mbi.vercel.app/ serves as the official online presence of St. Thomas Diagnostic Medical and Dental Clinic, Inc., a trusted healthcare provider since 1992. The site offers comprehensive information about the clinic's wide range of services, including pre-medical examinations, laboratory tests, imaging procedures, and other diagnostic services. It also highlights the clinic's accreditations and provides contact details for appointments and inquiries.",
+    img: "/p6.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://stdmdc-2mbi.vercel.app/",
+  },
 ];
 
 export const testimonials = [
