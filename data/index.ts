@@ -118,6 +118,22 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://stdmdc-2mbi.vercel.app/",
   },
+  {
+    id: 7,
+    title: "COOLAXY",
+    des: "The website https://coooooolaxy.vercel.app/ Colaxy is the next evolution in blockchain technology, designed to unlock the full potential of the Solana ecosystem. Experience unmatched scalability and a future-proof network built to redefine Solanas capabilities.",
+    img: "/p7.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://coooooolaxy.vercel.app/",
+  },
+  {
+    id: 8,
+    title: "Apple-copy-site",
+    des: "The website https://apple-website-copy.vercel.app/ this is a copy of the apple website using nextjs",
+    img: "/p8.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://apple-website-copy.vercel.app/",
+  },
 ];
 
 export const testimonials = [
